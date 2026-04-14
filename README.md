@@ -58,9 +58,9 @@ Java-Practice/
 ---
 
 ## 🚀 How to Run
+## Clone the repository
 
-Clone repository:
-git clone https://github.com/your-username/java-practice.git
+git clone https://github.com/raj11mm/Java-Development-Course.git
 
 Run Java files:
 javac FileName.java  
@@ -94,5 +94,4 @@ GitHub: https://github.com/raj11mm
 
 ---
 
-⭐ If you like this repo, don't forget to star it!
 ⭐ If you like this repo, don't forget to star it!
